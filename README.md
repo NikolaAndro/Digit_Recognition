@@ -10,3 +10,7 @@ Data is being split into:
 - 50,000 training images
 - 10,000 validation images
 - 10,000 test images
+
+# Environment
+
+This code is written for Python 2. The best solution to run the code and have no pain with the environment is to run it in the Google Colab.
